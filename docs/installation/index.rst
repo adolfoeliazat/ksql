@@ -31,6 +31,7 @@ For advanced installation and configuration, see the following topics.
     :maxdepth: 1
 
     client-server
+    cli-config
     standalone
     server-config/index
     upgrading
